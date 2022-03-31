@@ -27,15 +27,15 @@
 
 ## View:
 - ConsoleApp: the menu allows you to:
-  + 0. Exit
-  + 1. See all employees
-  + 2. See more about an employee
-  + 3. Add an employee
-  + 4. Delete an employee
-  + 5. Filter employees by rating
-  + 6. Edit employee
-  + 7. See all clients
-  + 8. Add a client
-  + 9. Edit client
-  + 10. Delete client
+  + Exit
+  + See all employees
+  + See more about an employee
+  + Add an employee
+  + Delete an employee
+  + Filter employees by rating
+  + Edit employee
+  + See all clients
+  + Add a client
+  + Edit client
+  + Delete client
 
