@@ -1,3 +1,16 @@
+# OOP-project-java - Stage II
+
+I added a new branch for Stage II.
+
+## IO:
+- Audit: this singleton service writes the actions done in the app.
+- EmployeesIO, ClientsIO, ServicesIO, SupplierIO: these singleton services write some data in files so the app will load with some objects. When reading the data, the objects are added in their specific arrays.
+
+## Resources:
+- audit.csv: the file that keep track of the actions done in the app.
+- clients.csv, employees.csv, services.csv, suppliers.csv: these files contain the data that will be loaded when the app starts.
+
+
 # OOP-project-java - Stage I
 
 ## Topic: Beauty Salon
@@ -39,14 +52,3 @@
   + Edit client
   + Delete client
 
-# OOP-project-java - Stage II
-
-I added a new branch for Stage II.
-
-## IO:
-- Audit: this singleton service writes the actions done in the app.
-- EmployeesIO, ClientsIO, ServicesIO, SupplierIO: these singleton services write some data in files so the app will load with some objects. When reading the data, the objects are added in their specific arrays.
-
-## Resources:
-- audit.csv: the file that keep track of the actions done in the app.
-- clients.csv, employees.csv, services.csv, suppliers.csv: these files contain the data that will be loaded when the app starts.
